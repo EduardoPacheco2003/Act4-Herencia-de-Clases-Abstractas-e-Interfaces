@@ -28,18 +28,18 @@ A partir del proyecto del sistema de reserva de Viajes (Class Travel) realiza lo
 
 El miembro de clase travel que a pesar de ser abstracto, podría ser identico tanto en National como en International, es el método **_quotePrice_**, por lo que se agrega el cuerpo en la clase abstracta y se elimina de sus hijos.
 
-![alt text](image.png)
+![image](https://github.com/EduardoPacheco2003/Act4-Herencia-de-Clases-Abstractas-e-Interfaces/assets/100945554/c3330693-abc8-45d0-9751-5de9df202e82)
 
 #### Clase International
 
 4.  Redefinir la función getPrice() para que se obtenga el precio de un viaje con impuesto incluido.
 
-![alt text](image-1.png)
+![image-1](https://github.com/EduardoPacheco2003/Act4-Herencia-de-Clases-Abstractas-e-Interfaces/assets/100945554/2aa93d04-9a59-48ce-beed-352b0a40a471)
 
 5. Crear una interfaz que permita cancelar viajes. Implementarlo en la clase NationalLowSeason.
 
-![alt text](image-2.png)
+![image-2](https://github.com/EduardoPacheco2003/Act4-Herencia-de-Clases-Abstractas-e-Interfaces/assets/100945554/f458a168-1c33-486c-bf46-ad984f71b05c)
 
 Implementación de la interfaz en la clase NationalLowSeason.
 
-![alt text](image-3.png)
+![image-3](https://github.com/EduardoPacheco2003/Act4-Herencia-de-Clases-Abstractas-e-Interfaces/assets/100945554/63ceabbb-9a38-4165-82fa-1e4b052baf8c)
